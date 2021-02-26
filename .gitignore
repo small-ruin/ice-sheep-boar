@@ -104,4 +104,5 @@ dist
 .tern-port
 
 # book
-_book
+_book/
+
