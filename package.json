@@ -1,0 +1,24 @@
+{
+  "name": "ice-sheep-boar",
+  "version": "0.0.1",
+  "description": "git book for display self dnd3.5 supplement",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "npm": "^7.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/small-ruin/ice-sheep-boar.git"
+  },
+  "author": "hilshire",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/small-ruin/ice-sheep-boar/issues"
+  },
+  "homepage": "https://github.com/small-ruin/ice-sheep-boar#readme"
+}
