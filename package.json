@@ -4,10 +4,8 @@
   "description": "git book for display self dnd3.5 supplement",
   "main": "index.js",
   "dependencies": {
-    "gitbook-cli": "^2.3.2",
-    "npm": "^7.6.0"
+    "gitbook-cli": "^2.3.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
